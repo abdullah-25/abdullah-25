@@ -159,38 +159,39 @@
       />
       <br /><strong>PostgreSQL</strong>
     </td>  
+     <td align="center" height="108" width="108">
+      <img
+        src="logo-mysql-170x115.png"
+        width="48"
+        height="48"
+        alt="POSTGRESQL"
+      />
+      <br /><strong>MySQL</strong>
+    </td>  
   </tr>
-  <tr>
-    <td>AWS</td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/aws-lambda.svg"
-        width="48"
-        height="48"
-        alt="LAMBDA"
-      />
-      <br /><strong>Lambda</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://static-00.iconduck.com/assets.00/aws-api-gateway-icon-423x512-70e4i3mi.png"
-        width="48"
-        height="48"
-        alt="APIGATEWAY"
-      />
-      <br /><strong>API Gateway</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://www.bouncebacktech.com/assets/img/amzec2logo.png"
-        width="48"
-        height="48"
-        alt="EC2"
-      />
-      <br /><strong>EC2</strong>
-    </td>
   
+   <tr>
+    <td>API</td>
+    <td align="center" height="108" width="108">
+      <img
+        src="icons8-rest-api-50.png"
+        width="48"
+        height="48"
+        alt="REST"
+      />
+      <br /><strong>REST</strong>
+    </td>  
+     <td align="center" height="108" width="108">
+      <img
+        src="graphql.png"
+        width="48"
+        height="48"
+        alt="POSTGRESQL"
+      />
+      <br /><strong>GraphQL</strong>
+    </td>  
   </tr>
+ 
 
  
 
@@ -267,12 +268,12 @@
     <td>Languages</td>
     <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
+        src="C.png"
         width="48"
         height="48"
         alt="RUBY"
       />
-      <br /><strong>Ruby</strong>
+      <br /><strong>C</strong>
     </td>
   </tr>
     
@@ -280,46 +281,45 @@
     <td>Frameworks & Libraries</td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png"
+        src="react-native.png"
         width="48"
         height="48"
         alt="RAILS"
       />
-      <br /><strong>Rails</strong>
+      <br /><strong>React Native</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"
-        width="48"
-        height="48"
-        alt="Angular"
-      />
-      <br /><strong>Angular</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"
-        width="48"
-        height="48"
-        alt="JQUERY"
-      />
-      <br /><strong>jQuery</strong>
-    </td>
-  </tr>
-
+  
   <tr>
-    <td>Databases</td>
+     <td>AWS</td>
     <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        src="https://cdn.worldvectorlogo.com/logos/aws-lambda.svg"
         width="48"
         height="48"
-        alt="MONGODB"
+        alt="LAMBDA"
       />
-      <br /><strong>MongoDB</strong>
-    </td>   
-  </tr>
-   
+      <br /><strong>Lambda</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://static-00.iconduck.com/assets.00/aws-api-gateway-icon-423x512-70e4i3mi.png"
+        width="48"
+        height="48"
+        alt="APIGATEWAY"
+      />
+      <br /><strong>API Gateway</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.bouncebacktech.com/assets/img/amzec2logo.png"
+        width="48"
+        height="48"
+        alt="EC2"
+      />
+      <br /><strong>EC2</strong>
+    </td>
+ 
+ 
   <tr>
     <td>Testing</td>
     <td align="center" height="108" width="108">
@@ -403,11 +403,6 @@
 
 <br >
 
-Although I now live in Canada, I'm half Australian, half British, having grown up in Melbourne, Australia, and spent a decade in the UK. While in the UK I hiked from the top of mainland Scotland (John o'Groats) to the bottom of England (Land's End) over three very cold months in the Autumn/Winter of 2010-2011 -- a distance of just under 2000km. It's still the greatest thing I've done in my life and at some stage I intend to hike the Welsh coastal path (1400km) and do a hike in Ireland/NI as well to complete the set. My love of long-distance hiking began in the national parks of Britain and has never left me. 
-
-<h2 align="center">:hiking_boot: Reconnaissance Hike: Welsh Coastline at Sunset, Oct 2021 :hiking_boot:</h2>
-
-!["Welsh Coastline at Sunset, Oct 2021"](./Coastline.jpeg)
 
 <section align="center">
 <h2>Profile Visits</h2> 
