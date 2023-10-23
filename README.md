@@ -5,7 +5,7 @@
 <br/>
 <p align="center">
   ✨
-  <a target="_blank" href="https://www.linkedin.com/in/mrgreen95/](https://www.linkedin.com/in/abdullahim/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/abdullahim/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   ✨
