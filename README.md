@@ -29,7 +29,7 @@
 ![](ezgif.com-optimize.gif)
 
   <p>
-<!--   <a target="_blank" rel="noopener noreferrer" href="https://github.com/abdullah-25/FitBuddy"> -->
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/abdullah-25/FitBuddy">
    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
     
   </a>  
@@ -42,7 +42,7 @@
 ![](Instock.gif)
 
   <p>
-<!--   <a target="_blank" rel="noopener noreferrer" href="https://github.com/abdullah-25/InStock"> -->
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/abdullah-25/InStock">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a> 
       </p>
