@@ -36,7 +36,7 @@
       </p>
         <p><strong>React, FirebaseAuth, Recharts, MySQL </strong> – A personal workout tracker with built in authentication system.</p>
     </td>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top">
       <h3>Instock</h3>
 
 ![](Instock.gif)
@@ -46,8 +46,8 @@
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a> 
       </p>
-        <p><strong>React, Figma, Node/Express, MySQL</strong> – InStock is an open-source web-based Inventory Management System that helps businesses efficiently manage their inventory and keep track of their stock levels.</p>
-    </td>
+        <p><strong>React, Figma, Node/Express, MySQL</strong> – InStock is an open-source web-based Inventory Management System that helps businesses efficiently manage their inventory and keep track of their stock levels.</p> -->
+<!--     </td> -->
   </tr>
 </table>
 </section>
