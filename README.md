@@ -15,7 +15,7 @@
   ✨
 </p>
 
-📈&nbsp; I'm currently working as a Developer for MultiplAI -- you personal job search assistant.
+📈&nbsp; I'm currently working as a Software Developer II for TVO -- a media-education company based in Ontario.
 <br/>
 🏋️‍♀️&nbsp; When I'm not coding, I enjoy working out.
 
