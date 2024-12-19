@@ -130,6 +130,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://static.djangoproject.com/img/logos/django-logo-positive.png"
+        width="48"
+        height="48"
+        alt="Django"
+      />
+      <br /><strong>Django</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
         width="48"
         height="48"
